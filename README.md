@@ -1,9 +1,6 @@
-## $M^{2}Chat$: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation
-The official release of $M^{2}Chat$.
-For more details, please refer to our [paper on Arxiv](https://arxiv.org/abs/2311.17963).
-Or [demo page](https://mattie-e.github.io/M2Chat.github.io/).
-
-<img src="figs/main_banner.png" width="1000" >
+# $M^{2}Chat$: Empowering VLM for Multimodal LLM Interleaved Text-Image Generation
+![Python 3.8](https://img.shields.io/badge/Python-3.8-blue)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2311.17963)
 
 <img src="figs/main_framework.png" width="1000" >
 
